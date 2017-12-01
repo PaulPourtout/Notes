@@ -25,7 +25,7 @@ git reset HEAD
 git reset --hard
 git diff [branch]
 git diff -p [patch] -> for rewrite diff file
-git clean -> remove untracked files from the working directory
+git clean -i -> remove untracked files from the working directory [option help is always helpful :3]
 
 ```
 
